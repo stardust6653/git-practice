@@ -9,8 +9,7 @@ if you'll see that, welcome.
 ## Index
 
 - Installation
-- How to start
-- Contributing
+- Formula by mathJax
 
 ## Installation
 
@@ -19,9 +18,9 @@ $ pip install -r requirments.txt
 $ python main.py
 ```
 
-## Formula
+## Formula by mathJax
 
 $$ y=x+1 $$
 
-Or, You can emphasize formula like $ y=x+1 $.
+Or, You can emphasize formula like $y=x+1$.
 
